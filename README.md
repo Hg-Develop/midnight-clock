@@ -4,6 +4,8 @@
 
 かの有名な(?) 世界終末時計(Doomsday Clock) を再現したアナログ時計です。
 
+![midnight-clock](https://user-images.githubusercontent.com/52535984/156348377-d1e485b7-57ea-422f-b450-822eca4b884f.png)
+
 ## 使い方
 
 実行すると、「Midnight Clock」「Number Dial」「History」の 3 つのウィンドウが開きます。
